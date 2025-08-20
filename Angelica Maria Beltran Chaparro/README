@@ -1,0 +1,18 @@
+Explicación del problema
+
+La actividad consistía en elegir una tarea cotidiana y explicarla como si fueran instrucciones para una computadora. La condición era que la computadora no piensa ni interpreta, entonces cada paso debía estar escrito de manera muy clara, precisa y sin dejar nada por fuera.
+Yo decidí hacer el ejemplo de cómo comprar una entrada para un concierto de BTS en Ticketmaster, porque es un proceso real, muy actual y con el que muchas personas de mi edad se pueden identificar. Además, no es algo tan simple como preparar una receta o acomodar el escritorio, sino que tiene varias etapas (abrir el navegador, buscar el evento, entrar a la fila virtual, escoger el asiento, pagar, confirmar, etc.), lo que lo hace más interesante para explicarlo.
+En mi caso, la idea fue detallar todo desde el momento de encender el computador hasta llegar al correo donde aparecen los boletos digitales. De esa forma se muestra que la computadora no adivina nada y solo sigue al pie de la letra lo que se le ordena.
+
+Mayor reto al describirlo
+
+El mayor reto fue lograr que cada paso quedara bien explicado sin sonar repetitiva o confusa. A veces uno piensa que escribir “comprar un boleto” ya es suficiente, pero para este trabajo no era así. Me tocó desglosar cada parte: hacer clic en el botón, escribir la información, esperar a que cargue la página, volver a hacer clic, etc. Eso fue lo más complicado porque hay pasos que parecen muy obvios para una persona, pero no para una computadora.
+También fue un reto organizar la secuencia de forma lógica, porque si me saltaba un paso (como iniciar sesión o confirmar el pago) todo lo demás se dañaba. En la vida real uno puede intuir qué hacer, pero aquí tocaba imaginar que la computadora no sabe nada si yo no lo escribo.
+
+Que mejoraria?
+
+Pienso que podría mejorar mi solución haciéndola un poco más clara y menos extensa, Otra cosa que podría mejorar es incluir indicaciones por si algo falla en la página (como cuando se demora en cargar o si el botón cambia de lugar), porque en la práctica esas cosas pasan y un computador necesitaría saber qué hacer en esos casos.
+Finalmente, creo que también podría añadir más ejemplos de otros métodos de pago o de qué hacer después con los boletos digitales, para que el proceso quede todavía más completo, adicional a eso podria agregar imagenes para que sea mas claro
+
+
+Este ejercicio me sirvió porque me hizo darme cuenta de lo importante que es ser clara al explicar un proceso, especialmente si alguien que no sabe nada del tema necesita entenderlo.
