@@ -1,3 +1,4 @@
+video del experimento en youtube:  https://youtu.be/2fxsVcf1Xcs?feature=shared
 Experimento Demostración de ondas electromagnéticas
 
 El proyecto tiene como fin de mostrar Demostrar la existencia de las ondas electromagnéticas Mediante un experimento sencillo Basado en el trabajo de Heinrich Hertz
